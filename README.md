@@ -6,7 +6,7 @@ My first repository.
 - Gundam
 - One piece
 
-# ** My favorite Motorcycle**
+# **My favorite Motorcycle**
 - Honda
 - Yamaha
 
