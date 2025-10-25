@@ -8,5 +8,6 @@ My first repository.
 
 # **My favorite Show Series**
 - Loki
-- Eat bulaga
+- Breaking Bad
+- The Walking Dead
 
